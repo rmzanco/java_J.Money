@@ -1,4 +1,4 @@
-package br.unicamp.ft.h198760_r205541;
+package br.unicamp.ft.h198760_r205548;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("br.unicamp.ft.h198760_r205541", appContext.getPackageName());
+        assertEquals("br.unicamp.ft.h198760_r205548", appContext.getPackageName());
     }
 }
