@@ -1,4 +1,4 @@
-package br.unicamp.ft.h198760_r205548;
+package br.unicamp.ft.h198760_r205541;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;

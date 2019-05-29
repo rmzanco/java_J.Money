@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "br.unicamp.ft.h198760_r205548"
+        applicationId "br.unicamp.ft.h198760_r205541"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
