@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986620711086",
+    "firebase_url": "https://jmoney-f9133.firebaseio.com",
+    "project_id": "jmoney-f9133",
+    "storage_bucket": "jmoney-f9133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986620711086:android:2f477b6a82d5021f",
+        "android_client_info": {
+          "package_name": "br.unicamp.ft.h198760_r205548"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986620711086-q4s4mk52nn26tc2imadbe9gvh2fq0e0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unicamp.ft.h198760_r205548",
+            "certificate_hash": "8d896bd681ff6a59e4fb7d666d50a7a55782ddea"
+          }
+        },
+        {
+          "client_id": "986620711086-e3bk3hql7pmck8l7jpgbki7n4kd49d5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PqAy5-3foWwV-ZnuIyviw7WhAnas6WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986620711086-e3bk3hql7pmck8l7jpgbki7n4kd49d5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
